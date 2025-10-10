@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juliet Michael  
+# 👋 Hi, I'm Olohimai Juliet  
 
 🚀 **AI Automation & Machine Learning Engineer | Systems & ICT Consultant | Founder, WECHIMAI Integrated Engineering & ICT Ltd**
 
