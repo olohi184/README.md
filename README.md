@@ -38,7 +38,7 @@ To leverage **AI and automation** in driving **Africa’s digital transformation
 ## 📫 Connect with Me
 - 💼 Company: [WECHIMAI Integrated Engineering & ICT Ltd](#)
 - 💌 Email: wechimaiiintegratedengineering@gmail.com, olohimai2003@yahoo.com  
-- 🌐 LinkedIn: [linkedin.com/in/juliet-michael  
+- 🌐 LinkedIn: linkedin.com/in/juliet-michael  
 - 🧠 Medium / Blog: [medium.com/@yourprofile](#)  
 
 ---
