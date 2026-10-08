@@ -1,46 +1,52 @@
-# 👋 Hi, I'm Olohimai Juliet  
+# Olohimai Juliet Michael
 
-🚀 **AI Automation & Machine Learning Engineer | Systems & ICT Consultant | Founder, WECHIMAI Integrated Engineering & ICT Ltd**
+**AI & Machine Learning Engineer | Trustworthy AI Researcher | Principal Communication Engineer**
 
-Welcome to my GitHub! I’m passionate about using **Artificial Intelligence, Machine Learning, and Automation** to design innovative solutions that empower businesses, communities, and individuals.  
+I build and evaluate AI systems for real-world environments, with a focus on **reliability, robustness, climate-aware connectivity, and practical Python applications**. My work connects machine learning research, telecommunications, satellite communications and reproducible research software.
+
+📍 Abuja, Nigeria · [Portfolio](https://olohi184.github.io) · [LinkedIn](https://www.linkedin.com/in/juliet-michael/) · [GitHub](https://github.com/olohi184)
+
+## Selected projects
+
+| Project | Focus | Links |
+| --- | --- | --- |
+| **ClimateNetAI** | Climate-aware 5G modelling and research software; RAC 5G and reliability-boundary estimation extensions | [Code](https://github.com/olohi184/ClimateNetAI) · [App](https://climatenetai.streamlit.app) · [DOI](https://doi.org/10.5281/zenodo.21892444) |
+| **N-ATLAS Reliability Lab (NARL)** | Multilingual LLM evaluation, benchmark datasets and reliability testing | [Repository](https://github.com/olohi184/natlas-reliability-lab) |
+| **WeatherImpactML** | Weather forecasting and deployed machine learning | [Code](https://github.com/olohi184/WeatherImpactML) · [App](https://weatherimpactml.streamlit.app) |
+| **AI Notes Summariser V4** | TXT/PDF/DOCX summarization with BART and structured Python modules | [Code](https://github.com/olohi184/AI-Powered-Notes-Summariser-V4-Multi-Format-Version-) |
+| **Expense Tracker** | Python CLI, CSV reporting and automated tests | [Code](https://github.com/olohi184/expense-tracker-python) |
+| **Weather Automation Tool** | OpenWeatherMap API integration with environment-based credentials | [Code](https://github.com/olohi184/weather-automation-tool) |
+| **Email Automation Bot** | Python SMTP reminder starter with safe preview mode | [Code](https://github.com/olohi184/email-automation-bot) |
+
+## Technical focus
+
+- **Machine learning:** Python, Pandas, NumPy, scikit-learn, XGBoost, TensorFlow/Keras, PyTorch; regression and time-series modelling
+- **Trustworthy AI:** temporal validation, model generalization, robustness, distribution shift and reliability monitoring
+- **LLM evaluation:** multilingual benchmarks, automated inference workflows and model assessment
+- **Software engineering:** Git/GitHub, Streamlit, Python CLI applications, APIs, testing and reproducible experiments
+- **Engineering:** 5G/6G, satellite communications, ground-station operations and systems engineering
+
+## Research and professional background
+
+- **Principal Communication Engineer**, National Space Research and Development Agency (NASRDA), Abuja
+- **Systems Engineering PhD researcher**, African University of Science and Technology (AUST), Abuja
+- **Project lead and developer**, ClimateNetAI and its reliability-aware extensions
+- **Team lead**, N-ATLAS Reliability Lab (NARL)
+- **Accepted poster**, Women in Machine Learning (WiML) @ NeurIPS 2026
+- **Academic reviewing:** ML4PS 2026
+- **Former Graduate Assistant / Assistant Lecturer**, Covenant University
+
+## Research software and publications
+
+ClimateNetAI: [Zenodo record](https://doi.org/10.5281/zenodo.21892444) · [Source repository](https://github.com/olohi184/ClimateNetAI)
+
+Research topics include climate-aware wireless prediction, temporal generalization and the limits of predictive reliability. Earlier publications may use the author name **Iruemi Olohimai Juliet**.
+
+## Collaboration
+
+I'm interested in collaborations across **trustworthy AI, AI safety and evaluation, intelligent connectivity, AI engineering and research software**.
+
+**Portfolio:** https://olohi184.github.io
 
 ---
-
-## 💡 About Me
-- 🎓 PhD Candidate in **Systems Engineering** and BEng in **Information & Commuunication Engineering**
-- 💼 Founder of **WECHIMAI Integrated Engineering & ICT Ltd**, an engineering and ICT innovation company driving digital transformation.
-- 🤖 Building projects in **AI automation**, **IoT**, **5G intelligence**, **space systems**, and **cybersecurity**.
-- 💬 I love sharing knowledge, mentoring, and developing AI-driven solutions for real-world problems.
-
----
-
-## 🧠 Current Focus
-- Learning and building in **AI Automation** & **Machine Learning Engineering**
-- Developing automation tools and apps using **Python, Streamlit, and APIs**
-- Exploring **AI for climate systems, 5G signal prediction, and space technology applications**
-
----
-
-## 🔧 Projects & Repositories
-Here are a few of my hands-on learning and innovation projects:
-- 💸 **AI Expense Tracker** – A smart automation tool for personal finance
-- ☁️ **Weather Automation App** – Fetches real-time weather insights via API
-- 🧾 **AI-Powered Notes Summariser** – Summarises long notes & documents using NLP
-- 📡 **5G Signal Prediction Model** – Uses machine learning to predict network quality
-
----
-
-## 🌍 Vision
-To leverage **AI and automation** in driving **Africa’s digital transformation**, empowering local innovation, and creating sustainable tech-driven solutions through **WECHIMAI Integrated Engineering & ICT Ltd**.
-
----
-
-## 📫 Connect with Me
-- 💼 Company: [WECHIMAI Integrated Engineering & ICT Ltd](#)
-- 💌 Email: wechimaiiintegratedengineering@gmail.com, olohimai2003@yahoo.com  
-- 🌐 LinkedIn: linkedin.com/in/juliet-michael  
-- 🧠 Medium / Blog: [medium.com/@yourprofile](#)  
-
----
-
-✨ *WECHIMAI — Building the future, one intelligent system at a time.
+*Building AI systems that are useful, testable and reliable in changing real-world conditions.*
